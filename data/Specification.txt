@@ -1,0 +1,14 @@
+Tên thông số|Giá trị
+Công suất đốt rác|20 (kg/h)
+Thân lò (Bán kính x Cao)|28,6 x 88,7 (cm)
+Ống than hoạt tính hạt (Bán kính x Cao)|10 x 100 (cm)
+Cửa lò đốt rác (Dài x Rộng)|60 x 50 (cm)
+Ống dẫn khói giữa 2 buồng (Bán kính x Cao)|13 x 50 (cm)
+Trọng lượng lò đốt rác|~ 70 (kg)
+Thể tích buồng đốt rác|200 (dm³)
+Thể tích buồng xử lí khí|≥ 200 (dm³)
+Nhiệt độ đốt buồng đốt rác|≥ 550°C
+Nhiệt độ buồng xử lí khí|≥ 40°C
+Nhiệt độ bên ngoài lò đốt|60 - 70°C
+Dung dịch nước vôi trong bão hòa|40 lít/3 giờ đốt rác
+Nhiệt độ khí thải ra|Đang trong quá trình kiểm định khí

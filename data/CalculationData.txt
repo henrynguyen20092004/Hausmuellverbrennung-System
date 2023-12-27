@@ -1,0 +1,4 @@
+Số phút mỗi lần đốt: 7.5
+Kg rác đốt mỗi giờ: 20
+Lít Ca(OH)₂ mỗi lần dùng: 40
+Số giờ dùng Ca(OH)₂ trước khi thay: 3
